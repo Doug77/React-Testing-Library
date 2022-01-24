@@ -1,7 +1,7 @@
 # React Testing Library
 
 # Descrição
-Nesse projeto você escreverá testes para uma aplicação React.
+Nesse projeto foram implementados testes para uma aplicação React.
 
 ## Técnologias usadas
 
