@@ -1,6 +1,6 @@
 # React Testing Library
 
-# Descrição
+## Descrição
 Nesse projeto foram implementados testes para uma aplicação React.
 
 ## Técnologias usadas
